@@ -1,0 +1,22 @@
+body
+{
+background-image: url("new.jpeg");
+background-size: cover;
+height: 100%;
+overflow: hidden;
+}
+
+table.center
+{
+border:6px groove orange;
+border-radius: 20px;
+opacity:0.9;
+color:black;
+margin-right:auto; 
+margin-left:auto;
+margin-top:100px;
+top: 50%;
+font-family:Times;
+font-weight:50%;
+background-color:white;
+}

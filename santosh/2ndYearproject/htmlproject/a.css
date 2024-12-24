@@ -1,0 +1,16 @@
+p
+{
+	background-color:blue;
+  margin-top: 80px;
+  margin-bottom: 30px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+div
+{
+	height: 100px;
+	width: 100%;
+	background-image:url(bg-07.jpg);
+	background-repeat: repeat-x;
+	background-position: center;
+}

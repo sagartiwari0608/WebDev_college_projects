@@ -1,0 +1,11 @@
+table.centre
+{
+border:6px groove orange;
+border-radius: 20px;
+
+margin-top:100px;
+top: 50%;
+font-family:Times;
+font-weight:50%;
+background-color:white;
+}

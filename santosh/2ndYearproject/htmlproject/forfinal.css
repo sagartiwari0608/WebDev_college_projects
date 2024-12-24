@@ -1,0 +1,13 @@
+body
+{
+background-image: url("bg1.jpg");
+background-size: cover;
+height: 80%;
+overflow: hidden;
+}
+h1
+{
+	font-size: 50px;
+	font-family: arial;
+	color: red;
+}

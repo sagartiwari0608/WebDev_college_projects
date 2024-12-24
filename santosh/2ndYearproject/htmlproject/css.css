@@ -1,0 +1,59 @@
+body
+{
+background-image: url("books.jpeg");
+background-size: cover;
+height: 100%;
+overflow: hidden;
+}
+
+table.center
+{
+border:6px groove orange;
+border-radius: 20px;
+opacity:0.9;
+color:black;
+margin-right:auto; 
+margin-left:auto;
+margin-top:100px;
+top: 50%;
+font-family:Times;
+font-weight:50%;
+background-color:white;
+}
+h1
+{
+text-align:justify;	
+right: 30%;
+font-size: 80;
+font-family:arial;	
+color:white;
+text-shadow: 0 0 5px rgba(0,0,0.5);
+padding-top:2%;
+}
+h2
+{
+text-align: center;
+color:white; 
+font-family: arial;	
+}
+h3
+{
+	text-align: center;
+	color: white;
+}
+img
+{
+border-radius:100%;
+height:150px;
+width:150px;
+text-align:left; 	
+opacity: 0.8;
+border:7px double; 
+}
+div {
+ 
+  background: red;
+  -webkit-transition: width 2s; 
+  transition: width 2s;
+}
+
